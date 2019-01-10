@@ -26,6 +26,7 @@ X_train = sc_X.fit_transform(X_train)
 X_test = sc_X.transform(X_test)"""
 
 # Fitting the Regression Model to the dataset
+#creating the regressor
 
 
 # Predicting a new result with Regression
